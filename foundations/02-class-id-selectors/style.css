@@ -1,0 +1,19 @@
+p.odd-class {
+    background-color: rgb(255, 99, 71);
+    font-family:Verdana, 'DejaVu Sana', sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+p.odd-class.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(60, 179, 113);
+    font-size: 24px;
+    font-weight: bold;
+}
